@@ -1,6 +1,5 @@
 Olá! Sou o Yuri e atualmente estou cursando Sistemas de Informação na PUC Minas. Desde sempre, nutri um profundo interesse e uma certa aptidão pela área de tecnologia.
 
-Meu objetivo é construir uma carreira sólida como desenvolvedor de software, e estou empenhado em aproveitar ao máximo cada oportunidade de aprendizado e desenvolvimento que surgir.
 
 Se você também está interessado em conectar e colaborar em projetos, estou sempre aberto a novas conexões.
 
@@ -8,8 +7,6 @@ Se você também está interessado em conectar e colaborar em projetos, estou se
 ------------------
 
 Hello! I'm Yuri, and I'm currently studying Information Systems at PUC Minas. I've always had a deep interest and a certain aptitude for the technology field.
-
-My goal is to build a solid career as a software developer, and I'm committed to making the most of every learning and development opportunity that comes my way.
 
 If you're also interested in connecting and collaborating on projects, I'm always open to new connections.
 ##
